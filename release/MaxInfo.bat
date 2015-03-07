@@ -1,0 +1,1 @@
+MaxInfo -i D:\\MaxInfo\\data\\junctions.bed D:\\MaxInfo\\data\\test_data.txt D:\\MaxInfo\\data
