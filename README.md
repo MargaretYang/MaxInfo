@@ -1,4 +1,4 @@
-MaxInfo is a software program for simultaneous isoform discovery and abundance estimation from high-throughput RNA-Seq data. 
+MaxInfo is a software program for simultaneous isoform discovery and abundance estimation from RNA-Seq data. 
 
 It can be flexibly switched between the annotation-free mode and the annotation-dependent mode.
 
